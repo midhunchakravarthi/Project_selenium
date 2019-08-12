@@ -3,3 +3,8 @@ This is introduction  to github
 //////////////////////////////////////////////////
 
 Added some new lines to existing file in github - added modifications
+Added some new lines to existing file in github
+
+//////////////////////////////////////////
+
+checking from multiple users
